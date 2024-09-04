@@ -1,0 +1,6 @@
+{"type": "FeatureCollection", 
+  "features": [
+    {"geometry": {"coordinates": [-123.9, 40.2], "type": "Point"}, "id": "test anno", "properties": {}, "type": "Feature"}, 
+    {"geometry": {"coordinates": [-123.91, 40.21], "type": "Point"}, "id": "real anno", "properties": {}, "type": "Feature"}
+  ]
+}
