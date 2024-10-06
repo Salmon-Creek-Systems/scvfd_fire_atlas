@@ -1,0 +1,14 @@
+{'attribution': {
+  'roads': 'https://www.arcgis.com/home/item.html?id=3dce358ad4194dee9d5fc58883f06333',
+  'creeks': 'https://gis-calema.opendata.arcgis.com/maps/CalEMA::usgs-national-hydrography-dataset-nhd/about',
+  'elevation': 'https://portal.opentopography.org/raster?opentopoID=OTSDEM.032021.4326.3',
+  'features': 'Overpass API: node["natural"]({south},{west},{north},{east});out geom',
+  'ponds': 'link to SCS? File in repo?',
+  'buildings': 'https://planetarycomputer.microsoft.com/dataset/ms-buildings'
+  },
+'tools': {
+  'gis': 'http//grass.osgeo.org',
+  'pipeline': 'http://dagster.org'
+  }
+}
+  
