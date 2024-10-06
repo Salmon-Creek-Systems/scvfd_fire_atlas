@@ -1,0 +1,53 @@
+
+east: -123.961735
+north: 40.241522
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 0
+text: SERENDIPITY
+
+
+east: -123.951951
+north: 40.230473
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: -10
+text: LOWER SAMUELS RANCH
+
+east: -123.960683
+north: 40.236115
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 0
+text: UPPER SAMUELS RANCH
+

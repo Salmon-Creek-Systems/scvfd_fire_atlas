@@ -1,0 +1,187 @@
+east: -123.960800
+north: 40.225605
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 280.993331
+text: UPPER SAMUELS RANCH
+
+east: -123.958644
+north: 40.220845
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 296.012770
+text: UPPER SAMUELS RANCH
+
+east: -123.961735
+north: 40.241522
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 14.490336
+text: SERENDIPITY
+
+east: -123.973585
+north: 40.236473
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 67.025213
+text: SERENDIPITY
+
+east: -123.951951
+north: 40.230473
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: -75.764411
+text: LOWER SAMUELS RANCH
+
+east: -123.960683
+north: 40.236115
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 95.970370
+text: UPPER SAMUELS RANCH
+
+east: -123.958185
+north: 40.237082
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: -58.939156
+text: UPPER SAMUELS RANCH
+
+east: -123.961922
+north: 40.229862
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 299.870787
+text: UPPER SAMUELS RANCH
+
+east: -123.960393
+north: 40.224387
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 295.057382
+text: UPPER SAMUELS RANCH
+
+east: -123.955041
+north: 40.233654
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: -12.764263
+text: LOWER SAMUELS RANCH
+
+east: -123.948560
+north: 40.228544
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: -67.062681
+text: LOWER SAMUELS RANCH
+

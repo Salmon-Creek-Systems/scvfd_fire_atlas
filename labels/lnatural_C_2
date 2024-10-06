@@ -1,0 +1,32 @@
+east: -123.934202
+north: 40.189031
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 30
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+text: Clarks Butte
+
+east: -123.934202
+north: 40.189031
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 30
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+text: Clarks Butte
+
