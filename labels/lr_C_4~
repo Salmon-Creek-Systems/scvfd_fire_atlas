@@ -1,5 +1,6 @@
-east: -123.920854
-north: 40.218622
+
+east: -123.898533
+north: 40.178786
 xoffset: 0
 yoffset: 0
 ref: center
@@ -12,11 +13,12 @@ hwidth: 0
 background: none
 border: none
 opaque: yes
-rotate: 35.454150
-text: FLICKER CREEK
+rotate: 15.337319
+text: ROAD B
 
-east: -123.945272
-north: 40.210837
+
+east: -123.885800
+north: 40.195
 xoffset: 0
 yoffset: 0
 ref: center
@@ -29,46 +31,13 @@ hwidth: 0
 background: none
 border: none
 opaque: yes
-rotate: 40
-text: DICKSON BUTTE
+rotate: -20
+text: LOWER THOMAS
 
-east: -123.927559
-north: 40.206325
+
+east: -123.895305
+north: 40.176351
 xoffset: 0
-yoffset: 60
-ref: center
-font: standard
-color: black
-fontsize: 20
-width: 1
-hcolor: none
-hwidth: 0
-background: none
-border: none
-opaque: yes
-rotate: 0.274236
-text: UPPER SAMUELS RANCH
-
-east: -123.940944
-north: 40.212885
-xoffset: 0
-yoffset: 60
-ref: center
-font: standard
-color: black
-fontsize: 20
-width: 1
-hcolor: none
-hwidth: 0
-background: none
-border: none
-opaque: yes
-rotate: 354.257883
-text: UPPER SAMUELS RANCH
-
-east: -123.927559
-north: 40.218622
-xoffset: 60
 yoffset: 0
 ref: center
 font: standard
@@ -80,6 +49,40 @@ hwidth: 0
 background: none
 border: none
 opaque: yes
-rotate: -75
-text: LOWER SAMUELS RANCH
+rotate: 3.149445
+text: ROAD B
+
+east: -123.896820
+north: 40.175652
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 60.800969
+text: ROAD K
+
+east: -123.897564
+north: 40.168982
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 64.368036
+text: ROAD K
 

@@ -15,43 +15,9 @@ opaque: yes
 rotate: 355.686117
 text: GRENZ
 
-east: -123.879491
-north: 40.219193
-xoffset: 0
-yoffset: 0
-ref: center
-font: standard
-color: black
-fontsize: 20
-width: 1
-hcolor: none
-hwidth: 0
-background: none
-border: none
-opaque: yes
-rotate: 86.255710
-text: THOMAS
-
-east: -123.886555
-north: 40.213377
-xoffset: 0
-yoffset: 0
-ref: center
-font: standard
-color: black
-fontsize: 20
-width: 1
-hcolor: none
-hwidth: 0
-background: none
-border: none
-opaque: yes
-rotate: 14.153028
-text: THOMAS
-
 east: -123.886967
 north: 40.213291
-xoffset: 0
+xoffset: -20
 yoffset: 0
 ref: center
 font: standard
@@ -64,23 +30,6 @@ background: none
 border: none
 opaque: yes
 rotate: 5.135458
-text: THOMAS
-
-east: -123.893843
-north: 40.210601
-xoffset: 0
-yoffset: 0
-ref: center
-font: standard
-color: black
-fontsize: 20
-width: 1
-hcolor: none
-hwidth: 0
-background: none
-border: none
-opaque: yes
-rotate: 89.697218
 text: THOMAS
 
 east: -123.889263
@@ -99,23 +48,6 @@ border: none
 opaque: yes
 rotate: -12.430186
 text: LOWER THOMAS
-
-east: -123.898641
-north: 40.204683
-xoffset: 0
-yoffset: 0
-ref: center
-font: standard
-color: black
-fontsize: 20
-width: 1
-hcolor: none
-hwidth: 0
-background: none
-border: none
-opaque: yes
-rotate: 34.034974
-text: THOMAS
 
 east: -123.896092
 north: 40.201649
@@ -150,23 +82,6 @@ border: none
 opaque: yes
 rotate: -88.393873
 text: UNN 16
-
-east: -123.885398
-north: 40.214508
-xoffset: 0
-yoffset: 0
-ref: center
-font: standard
-color: black
-fontsize: 20
-width: 1
-hcolor: none
-hwidth: 0
-background: none
-border: none
-opaque: yes
-rotate: 26.841175
-text: THOMAS
 
 east: -123.878050
 north: 40.198208

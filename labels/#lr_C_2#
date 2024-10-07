@@ -1,5 +1,5 @@
-east: -123.920854
-north: 40.218622
+east: -123.946501
+north: 40.183683
 xoffset: 0
 yoffset: 0
 ref: center
@@ -12,11 +12,11 @@ hwidth: 0
 background: none
 border: none
 opaque: yes
-rotate: 35.454150
-text: FLICKER CREEK
+rotate: 2.418073
+text: PHELPS RANCH
 
-east: -123.945272
-north: 40.210837
+east: -123.935904
+north: 40.182700
 xoffset: 0
 yoffset: 0
 ref: center
@@ -29,46 +29,12 @@ hwidth: 0
 background: none
 border: none
 opaque: yes
-rotate: 40
-text: DICKSON BUTTE
+rotate: 323.012448
+text: PHELPS RANCH
 
-east: -123.927559
-north: 40.206325
+east: -123.931627
+north: 40.180958
 xoffset: 0
-yoffset: 60
-ref: center
-font: standard
-color: black
-fontsize: 20
-width: 1
-hcolor: none
-hwidth: 0
-background: none
-border: none
-opaque: yes
-rotate: 0.274236
-text: UPPER SAMUELS RANCH
-
-east: -123.940944
-north: 40.212885
-xoffset: 0
-yoffset: 60
-ref: center
-font: standard
-color: black
-fontsize: 20
-width: 1
-hcolor: none
-hwidth: 0
-background: none
-border: none
-opaque: yes
-rotate: 354.257883
-text: UPPER SAMUELS RANCH
-
-east: -123.927559
-north: 40.218622
-xoffset: 60
 yoffset: 0
 ref: center
 font: standard
@@ -80,6 +46,23 @@ hwidth: 0
 background: none
 border: none
 opaque: yes
-rotate: -75
-text: LOWER SAMUELS RANCH
+rotate: 326.557999
+text: EAST FORK
+
+east: -123.916668
+north: 40.165144
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 5.212291
+text: ROAD E
 

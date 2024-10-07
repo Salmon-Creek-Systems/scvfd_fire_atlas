@@ -1,5 +1,5 @@
-east: -123.912499
-north: 40.185852
+east: -123.973797
+north: 40.207526
 xoffset: 0
 yoffset: 0
 ref: center
@@ -12,11 +12,11 @@ hwidth: 0
 background: none
 border: none
 opaque: yes
-rotate: 352.950239
-text: CISCO
+rotate: 0.989733
+text: RIDGE
 
-east: -123.910400
-north: 40.177721
+east: -123.966984
+north: 40.199226
 xoffset: 0
 yoffset: 0
 ref: center
@@ -29,11 +29,11 @@ hwidth: 0
 background: none
 border: none
 opaque: yes
-rotate: 2.100044
-text: ROAD B
+rotate: -9.138156
+text: DOODY RIDGE
 
-east: -123.909277
-north: 40.184453
+east: -123.963732
+north: 40.205689
 xoffset: 0
 yoffset: 0
 ref: center
@@ -46,12 +46,11 @@ hwidth: 0
 background: none
 border: none
 opaque: yes
-rotate: 319.425400
-text: ANDY
+rotate: -5.734494
+text: SOPER
 
-
-east: -123.909865
-north: 40.179950
+east: -123.972617
+north: 40.205298
 xoffset: 0
 yoffset: 0
 ref: center
@@ -64,12 +63,11 @@ hwidth: 0
 background: none
 border: none
 opaque: yes
-rotate: 33.562568
-text: EARLY RANCH
+rotate: -19.901633
+text: DOODY RIDGE
 
-
-east: -123.913394
-north: 40.177726
+east: -123.958644
+north: 40.220845
 xoffset: 0
 yoffset: 0
 ref: center
@@ -82,11 +80,11 @@ hwidth: 0
 background: none
 border: none
 opaque: yes
-rotate: -26.940827
-text: B
+rotate: 296.012770
+text: UPPER SAMUELS RANCH
 
-east: -123.905086
-north: 40.177736
+east: -123.946256
+north: 40.214708
 xoffset: 0
 yoffset: 0
 ref: center
@@ -99,12 +97,11 @@ hwidth: 0
 background: none
 border: none
 opaque: yes
-rotate: -1.787016
-text: ROAD B
+rotate: 358.393904
+text: UPPER SAMUELS RANCH
 
-
-east: -123.903261
-north: 40.196155
+east: -123.950032
+north: 40.218738
 xoffset: 0
 yoffset: 0
 ref: center
@@ -117,5 +114,23 @@ hwidth: 0
 background: none
 border: none
 opaque: yes
-rotate: 18.010531
-text: EARLY RANCH
+rotate: 2.104602
+text: UPPER SAMUELS RANCH
+
+east: -123.954142
+north: 40.219917
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 341.127076
+text: UPPER SAMUELS RANCH
+

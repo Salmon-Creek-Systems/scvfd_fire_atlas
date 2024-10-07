@@ -1,22 +1,6 @@
-east: -123.958447
-north: 40.168379
-xoffset: 0
-yoffset: 0
-ref: center
-font: standard
-color: black
-fontsize: 20
-width: 1
-hcolor: none
-hwidth: 0
-background: none
-border: none
-opaque: yes
-rotate: 326.813540
-text: UPPER MATTOLE CYN CRK
 
 east: -123.959000
-north: 40.173822
+north: 40.1745
 xoffset: 0
 yoffset: 0
 ref: center
@@ -48,23 +32,6 @@ border: none
 opaque: yes
 rotate: 2.418073
 text: PHELPS RANCH
-
-east: -123.964224
-north: 40.182864
-xoffset: 0
-yoffset: 0
-ref: center
-font: standard
-color: black
-fontsize: 20
-width: 1
-hcolor: none
-hwidth: 0
-background: none
-border: none
-opaque: yes
-rotate: 284.117706
-text: UPPER MATTOLE CYN CRK
 
 east: -123.966984
 north: 40.199226
@@ -100,22 +67,6 @@ opaque: yes
 rotate: -5.734494
 text: SOPER
 
-east: -123.964287
-north: 40.189120
-xoffset: 0
-yoffset: 0
-ref: center
-font: standard
-color: black
-fontsize: 20
-width: 1
-hcolor: none
-hwidth: 0
-background: none
-border: none
-opaque: yes
-rotate: 302.347607
-text: UPPER MATTOLE CYN CRK
 
 east: -123.953622
 north: 40.188560
@@ -131,59 +82,9 @@ hwidth: 0
 background: none
 border: none
 opaque: yes
-rotate: 33.548263
+rotate: 0
 text: UNN 17
 
-east: -123.951186
-north: 40.187582
-xoffset: 0
-yoffset: 0
-ref: center
-font: standard
-color: black
-fontsize: 20
-width: 1
-hcolor: none
-hwidth: 0
-background: none
-border: none
-opaque: yes
-rotate: 60.022174
-text: UNN 17
-
-east: -123.966724
-north: 40.171307
-xoffset: 0
-yoffset: 0
-ref: center
-font: standard
-color: black
-fontsize: 20
-width: 1
-hcolor: none
-hwidth: 0
-background: none
-border: none
-opaque: yes
-rotate: 278.850774
-text: UNN 17
-
-east: -123.967488
-north: 40.193287
-xoffset: 0
-yoffset: 0
-ref: center
-font: standard
-color: black
-fontsize: 20
-width: 1
-hcolor: none
-hwidth: 0
-background: none
-border: none
-opaque: yes
-rotate: 45.113108
-text: UPPER MATTOLE CYN CRK
 
 east: -123.970953
 north: 40.174387

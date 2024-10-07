@@ -1,0 +1,510 @@
+east: -123.900960
+north: 40.183286
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: -37.798397
+text: UNN
+
+east: -123.898533
+north: 40.178786
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 15.337319
+text: ROAD B
+
+east: -123.912499
+north: 40.185852
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 352.950239
+text: CISCO
+
+east: -123.908042
+north: 40.184822
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: -34.124152
+text: EARLY RANCH
+
+east: -123.905884
+north: 40.188358
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 52.765242
+text: EARLY RANCH
+
+east: -123.910400
+north: 40.177721
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 2.100044
+text: ROAD B
+
+east: -123.909277
+north: 40.184453
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 319.425400
+text: ANDY
+
+east: -123.902321
+north: 40.192242
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 346.233179
+text: GATED 3
+
+east: -123.902993
+north: 40.194075
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: -71.948795
+text: EARLY RANCH
+
+east: -123.916581
+north: 40.172957
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 335.678055
+text: ROAD B
+
+east: -123.901827
+north: 40.196698
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 7.371751
+text: UNN 17
+
+east: -123.904323
+north: 40.195689
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 58.318308
+text: UNN 17
+
+east: -123.907657
+north: 40.196368
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 314.396743
+text: UNN 17
+
+east: -123.905162
+north: 40.194494
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 35.327176
+text: UNN 17
+
+east: -123.908764
+north: 40.193546
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 344.571760
+text: UNN 17
+
+east: -123.905840
+north: 40.193158
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 65.891975
+text: UNN 17
+
+east: -123.908733
+north: 40.183636
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: -96.858651
+text: EARLY RANCH
+
+east: -123.909865
+north: 40.179950
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 33.562568
+text: EARLY RANCH
+
+east: -123.918362
+north: 40.196474
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 7.805417
+text: UNN 9
+
+east: -123.898105
+north: 40.197584
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: -177.974576
+text: UNN 17
+
+east: -123.900399
+north: 40.196544
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 2.710667
+text: UNN 17
+
+east: -123.916374
+north: 40.175521
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 31.963663
+text: ROAD B
+
+east: -123.913394
+north: 40.177726
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: -26.940827
+text: B
+
+east: -123.905086
+north: 40.177736
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: -1.787016
+text: ROAD B
+
+east: -123.907103
+north: 40.183630
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 171.901523
+text: EARLY RANCH
+
+east: -123.907233
+north: 40.184380
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 102.457104
+text: EARLY RANCH
+
+east: -123.903541
+north: 40.198150
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 28.579670
+text: EARLY RANCH
+
+east: -123.903261
+north: 40.196155
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 18.010531
+text: EARLY RANCH
+
+east: -123.902577
+north: 40.196397
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 27.000146
+text: EARLY RANCH
+
+east: -123.897673
+north: 40.185048
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 288.521136
+text: UNN
+

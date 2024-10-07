@@ -1,3 +1,36 @@
+east: -123.869919
+north: 40.207458
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: -69.304555
+text: GRENZ
+
+east: -123.872667
+north: 40.206944
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 0.938806
+text: GRENZ
 
 east: -123.871661
 north: 40.203255
@@ -16,6 +49,23 @@ opaque: yes
 rotate: 355.686117
 text: GRENZ
 
+east: -123.879491
+north: 40.219193
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 86.255710
+text: THOMAS
+
 east: -123.869190
 north: 40.206952
 xoffset: 0
@@ -32,6 +82,57 @@ border: none
 opaque: yes
 rotate: 7.981920
 text: GATES
+
+east: -123.870135
+north: 40.208978
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: -64.525703
+text: GRENZ
+
+east: -123.867174
+north: 40.215880
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: -10.588598
+text: GRENZ
+
+east: -123.867752
+north: 40.221522
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 335.453165
+text: THOMAS
 
 east: -123.862713
 north: 40.203437
@@ -84,6 +185,23 @@ opaque: yes
 rotate: -0.250469
 text: CLOUD FOREST
 
+east: -123.870679
+north: 40.215758
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 291.708542
+text: HOWARD
+
 east: -123.854105
 north: 40.203521
 xoffset: 0
@@ -118,6 +236,39 @@ opaque: yes
 rotate: 310.062785
 text: BEAR BUTTE
 
+east: -123.868825
+north: 40.208989
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 277.959898
+text: UNN
+
+east: -123.871082
+north: 40.192034
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 161.775773
+text: UNN 17
 
 east: -123.867698
 north: 40.203853
@@ -133,9 +284,25 @@ hwidth: 0
 background: none
 border: none
 opaque: yes
-rotate: -30
+rotate: 273.853774
 text: UNN 17
 
+east: -123.863935
+north: 40.200469
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: -70.422597
+text: UNN 17
 
 east: -123.870835
 north: 40.221247
@@ -171,7 +338,7 @@ opaque: yes
 rotate: 10.507825
 text: UNN 16
 
-east: -123.8725
+east: -123.871429
 north: 40.218923
 xoffset: 0
 yoffset: 0
@@ -185,7 +352,24 @@ hwidth: 0
 background: none
 border: none
 opaque: yes
-rotate: -10
+rotate: 132.308013
+text: THOMAS
+
+east: -123.869422
+north: 40.219887
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 42.798697
 text: THOMAS
 
 east: -123.869723
@@ -222,6 +406,39 @@ opaque: yes
 rotate: 56.485586
 text: GRENZ
 
+east: -123.865076
+north: 40.212482
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 3.799789
+text: GRENZ
+
+east: -123.870139
+north: 40.210339
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 255.226512
+text: GRENZ
 
 east: -123.869090
 north: 40.212411
@@ -239,6 +456,23 @@ border: none
 opaque: yes
 rotate: 55.531014
 text: HOWARD
+
+east: -123.868028
+north: 40.206982
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: -43.744098
+text: UNN 17
 
 east: -123.853271
 north: 40.197541
@@ -273,6 +507,23 @@ border: none
 opaque: yes
 rotate: 20.276176
 text: BEAR BUTTE
+
+east: -123.848575
+north: 40.201401
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 74.927207
+text: UNN 17
 
 east: -123.845813
 north: 40.206459

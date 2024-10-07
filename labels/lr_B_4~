@@ -1,5 +1,5 @@
-east: -123.850492
-north: 40.181096
+east: -123.871661
+north: 40.203255
 xoffset: 0
 yoffset: 0
 ref: center
@@ -12,11 +12,11 @@ hwidth: 0
 background: none
 border: none
 opaque: yes
-rotate: 335.703189
-text: USFS O.R. 722
+rotate: 355.686117
+text: GRENZ
 
-east: -123.850567
-north: 40.190004
+east: -123.879491
+north: 40.219193
 xoffset: 0
 yoffset: 0
 ref: center
@@ -29,11 +29,11 @@ hwidth: 0
 background: none
 border: none
 opaque: yes
-rotate: 302.198110
-text: USFS O.R. 722
+rotate: 86.255710
+text: THOMAS
 
-east: -123.848694
-north: 40.185486
+east: -123.886555
+north: 40.213377
 xoffset: 0
 yoffset: 0
 ref: center
@@ -46,11 +46,11 @@ hwidth: 0
 background: none
 border: none
 opaque: yes
-rotate: 289.567207
-text: USFS O.R. 722
+rotate: 14.153028
+text: THOMAS
 
-east: -123.848106
-north: 40.183321
+east: -123.886967
+north: 40.213291
 xoffset: 0
 yoffset: 0
 ref: center
@@ -63,11 +63,11 @@ hwidth: 0
 background: none
 border: none
 opaque: yes
-rotate: 53.083280
-text: USFS O.R. 722
+rotate: 5.135458
+text: THOMAS
 
-east: -123.853271
-north: 40.197541
+east: -123.893843
+north: 40.210601
 xoffset: 0
 yoffset: 0
 ref: center
@@ -80,11 +80,11 @@ hwidth: 0
 background: none
 border: none
 opaque: yes
-rotate: 252.468642
-text: USFS O.R. 722
+rotate: 89.697218
+text: THOMAS
 
-east: -123.848603
-north: 40.176498
+east: -123.889263
+north: 40.195820
 xoffset: 0
 yoffset: 0
 ref: center
@@ -97,11 +97,11 @@ hwidth: 0
 background: none
 border: none
 opaque: yes
-rotate: 160.974776
-text: USFS O.R. 722
+rotate: -12.430186
+text: LOWER THOMAS
 
-east: -123.852209
-north: 40.194794
+east: -123.898641
+north: 40.204683
 xoffset: 0
 yoffset: 0
 ref: center
@@ -114,11 +114,11 @@ hwidth: 0
 background: none
 border: none
 opaque: yes
-rotate: 309.807869
-text: USFS O.R. 722
+rotate: 34.034974
+text: THOMAS
 
-east: -123.832107
-north: 40.175112
+east: -123.896092
+north: 40.201649
 xoffset: 0
 yoffset: 0
 ref: center
@@ -131,6 +131,57 @@ hwidth: 0
 background: none
 border: none
 opaque: yes
-rotate: 14.748982
-text: WOOD RANCH
+rotate: -1.792120
+text: LOWER THOMAS
+
+east: -123.884843
+north: 40.206529
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: -88.393873
+text: UNN 16
+
+east: -123.885398
+north: 40.214508
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 26.841175
+text: THOMAS
+
+east: -123.878050
+north: 40.198208
+xoffset: 0
+yoffset: 0
+ref: center
+font: standard
+color: black
+fontsize: 20
+width: 1
+hcolor: none
+hwidth: 0
+background: none
+border: none
+opaque: yes
+rotate: 47.717544
+text: UNN 9
 
