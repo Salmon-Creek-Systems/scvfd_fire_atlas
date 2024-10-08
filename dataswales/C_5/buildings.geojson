@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "creeks",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"features": [
+{ "type": "Feature", "properties": { "cat": 1, "meanHeight": -1.0, "RegionName": "UnitedStates", "quadkey": 23001113 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -123.859182303235258, 40.197532484687798 ], [ -123.859110048892475, 40.197567171304406 ], [ -123.85916034957809, 40.197628302345564 ], [ -123.859232602183553, 40.197593620456814 ], [ -123.859182303235258, 40.197532484687798 ] ] ] } },
+{ "type": "Feature", "properties": { "cat": 2, "meanHeight": 4.1564884, "RegionName": "UnitedStates", "quadkey": 23001113 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -123.858657453313413, 40.197238074532294 ], [ -123.858589661706944, 40.197183685926049 ], [ -123.858550268776, 40.197212334883332 ], [ -123.858618059005607, 40.197266722361952 ], [ -123.858657453313413, 40.197238074532294 ] ] ] } }
+]
+}

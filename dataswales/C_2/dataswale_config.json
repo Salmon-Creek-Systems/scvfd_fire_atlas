@@ -1,0 +1,1 @@
+{"projection": "EPSG:4269", "name": "C_2", "google_maps_link": "", "filepath": "C_2_swaleconf.json", "geo": {"north": 40.19765133333333, "south": 40.172807, "west": -123.94776966666666, "east": -123.92292533333332}, "neighbors": {"right": "C_3", "left": "C_1", "down": "", "up": "B_2"}}
